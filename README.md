@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Qwabena-Proxy&column=8&theme=gruvbox&no-frame=true"/>
 
 
-- 🔭 I’m currently working on a Whatsapp Clone, Recipe app.
+- 🔭 I’m currently working on a Matrix Wizard app,Netflix clone and Recipe app.
 - 🌱 I’m currently learning Web development and mobile app development using kivy .
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with android development and application of software architectures into my apps.
