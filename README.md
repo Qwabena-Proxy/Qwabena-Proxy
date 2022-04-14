@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a Whatsapp Clone, Recipe app.
-- 🌱 I’m currently learning Web development  and mobile app development using native android and flutter .
+- 🌱 I’m currently learning Web development and mobile app development using kivy .
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with android development and application of software architectures into my apps.
 - 💬 Ask me about anything relating to mobile development.
 - 📫 How to reach me: Call/WhatsApp (0267117699) or email me qwabenamike91@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Loves playing guitar and loves reading 
+- ⚡ Fun fact: Loves listening to music and loves coding  
 
 <!--My Tech Stack-->
 
