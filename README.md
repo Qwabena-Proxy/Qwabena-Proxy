@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qwabena-Proxy&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Qwabena-Proxy&theme=dracula)
 
-
+![](https://skyline.github.com/qwabena-proxy/2021)
 ![GitHub metrics](https://metrics.lecoq.io/Qwabena-Proxy)
