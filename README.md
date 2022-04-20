@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Qwabena-Proxy&theme=dracula)
 
 ![](https://skyline.github.com/qwabena-proxy/2021)
-![GitHub metrics](https://metrics.lecoq.io/Qwabena-Proxy)
+![GitHub metrics](https://metrics.lecoq.io/Qwabena-Proxy) 
