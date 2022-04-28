@@ -1,4 +1,4 @@
-
+.0
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hello gif"> I'm Micheal
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Qwabena-Proxy&column=8&theme=gruvbox&no-frame=true"/>
 
 
-- 🔭 I’m currently working on a Matrix Wizard app,Netflix clone and Recipe app.
+- 🔭 I’m currently working on a Matrix Wizard app and Netflix clone.
 - 🌱 I’m currently learning Web development and mobile app development using kivy .
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with android development and application of software architectures into my apps.
