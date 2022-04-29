@@ -43,4 +43,3 @@ Here are some ideas to get you started:
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
 
 ![](https://skyline.github.com/qwabena-proxy/2021)
-![GitHub metrics](https://metrics.lecoq.io/Qwabena-Proxy)  
