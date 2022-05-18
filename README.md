@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a Matrix Wizard app, Xender clone and Netflix clone.
-- 🌱 I’m currently learning Web development and mobile app development using kivy .
+- 🌱 I’m currently learning Web development using Djano and mobile app development using kivy and flutter .
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with android development and application of software architectures into my apps.
 - 💬 Ask me about anything relating to mobile development.
