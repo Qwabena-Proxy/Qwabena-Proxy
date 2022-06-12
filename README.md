@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Qwabena-Proxy&label=Profile%20views&color=e91e63&style=flat" alt="Qwabena-Proxy" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/Qwabena-Proxy?style=social" alt="Qwabena-Proxy" /> </p>
-
+  
 
 ## My Trophies
 
