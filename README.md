@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## My Trophies
 
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Qwabena-Proxy&column=8&theme=gruvbox&no-frame=true"/>
-
+ 
 
 - 🔭 I’m currently working on a Matrix Wizard app, Xender clone and Netflix clone.
 - 🌱 I’m currently learning Web development using Djano and mobile app development using kivy and flutter .
