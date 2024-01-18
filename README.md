@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qwabena-Proxy&theme=github)
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Qwabena-Proxy&show_icons=true&locale=en&theme=radical"                alt="Qwabena-Proxy"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Qwabena-Proxy&theme=radical" alt="Qwabena-Proxy" />
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qwabena-Proxy&theme=github_dark)
