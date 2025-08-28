@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Qwabena-Proxy&column=8&theme=gruvbox&no-frame=true"/>
  
 
-- 🔭 I’m currently working on a Matrix Wizard app, Xender clone and Netflix clone.
-- 🌱 I’m currently learning Web development using Djano and mobile app development using kivy and flutter .
+- 🔭 I’m currently working on a developing my skills in cybersecurity.
+- 🌱 I’m currently learning Web development using Djano and on a journey of cyber.
 - 👯 I’m looking to collaborate on anything mobile development.
 - 🤔 I’m looking for help with android development and application of software architectures into my apps.
 - 💬 Ask me about anything relating to mobile development.
