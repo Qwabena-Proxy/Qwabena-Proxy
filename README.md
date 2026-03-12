@@ -41,5 +41,6 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Qwabena-Proxy&theme=dracula)
 ### [Snake game from github user contributions graph](https://github.com/Platane/snk)  
 ![preview](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=c51f4cbb-b176-42c5-841c-ffe8e2e66eb7&layout=compact)
 
 ![](https://skyline.github.com/qwabena-proxy/2021)
